@@ -50,10 +50,6 @@ I enjoy building applications, exploring new technologies, and turning ideas int
 - NoSQL Databases
 - CRUD Operations
 
-**📱 Cross-Platform Development**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **🔥 Full-Stack Technologies**
 
