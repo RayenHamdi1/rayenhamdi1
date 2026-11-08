@@ -96,14 +96,6 @@ I enjoy building applications, exploring new technologies, and turning ideas int
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayenhamdi1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayenhamdi1&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Connect With Me
 
 I'm always happy to connect with developers, exchange ideas, learn from others, and collaborate on interesting projects!
