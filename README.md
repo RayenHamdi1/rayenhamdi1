@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Rayen Hamdi
 
-### 💻 Aspiring Full-Stack Developer | Computer Science Student
+### 💻 Aspiring Full-Stack Developer | Information Technology Student
 
 I'm a 21-year-old student at [ISET Bizerte](https://isetbz.rnu.tn/) 🇹🇳 passionate about web development and modern technologies.
 
